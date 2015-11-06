@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/jamesboehmer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jamesboehmer.github.io
+  * I am jamesboehmer (https://keybase.io/jamesboehmer) on keybase.
+  * I have a public key with fingerprint 6CBA D316 1279 4BDA 8CBE  1DEA C70C 116C F1F9 C20A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017f1ebed5f1b748467631c8d5f20f93af18a0f835d7c06f6dc821dbfb5ebf38010a",
+            "fingerprint": "6cbad31612794bda8cbe1deac70c116cf1f9c20a",
+            "host": "keybase.io",
+            "key_id": "c70c116cf1f9c20a",
+            "kid": "01017f1ebed5f1b748467631c8d5f20f93af18a0f835d7c06f6dc821dbfb5ebf38010a",
+            "uid": "eb97884566631d27cb53093a00feb019",
+            "username": "jamesboehmer"
+        },
+        "service": {
+            "hostname": "jamesboehmer.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1446829639,
+    "expire_in": 157680000,
+    "prev": "b250a62672fd3129d080efffa077ea1b96cc31e8d44b9836dd4f7cbaa4fa7028",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJZbA1RGMdvqa1BqCa0pHQebKk6Z2bubIoIItaE0FZauc6ZOed2uty5
+nZlbqlGxS5BYQiLUkpZqI1JqSelCEQ8eiGuJNGm0glhLkLj2M8WbR+fly3fO//ud
+//edc31Qb19C3M2BQ4vex9oS4m5dPR7xZWV2zCnnsGWUcVo5V0h6AikyiOMGCk2D
+0zgAAZQpJJgYfgqxLCqiJEsC1BWW84CqAqJQQYAqgt+QdSBRydAVHhqYYj/BVFAY
+AXHpHDVDQWKHbTPkMqykY2QIUIK8rIrYQIqOCTQI0mWgQyjpFFJV53sK8y3Hq2Dm
+MHJIhmmxPZYEeuz9Q/+ffUd6cASrsqKIfkliDIOXdewXAGMAQAkGUPWEDrFDqJgw
+dQELDrZIfjGxubXpHDspNXXiDdfr5h+qjKDp5kfw7+7CtuVaulXENPmuG3Y0j+GW
+hb2iVQQH/uAC2AwZbKqsopTYjmmFOA0ype6aHh+KoqTwqiSo6RxZHTZtEjA9hV+W
+FMCWdw8pZUjM+wGSeEnmKXsSXjWAAgilFAFZJghiVdJ1ARLFEEWsKoJkGCJlA0BI
+pEgGvMJ5DZaELE6TmU0UZEjHDIaQG7EJt7btSl68Ly7B17dPL++3+RIGDPn7B9PW
+9ftZULFk/dmW6L1XGwe1psa+11fYSbePJj6uOTx48oZDMxv21TU/q9jTr2VB6t7L
+U2/MezQ3pf+2stm1mVc6R45YsfhA94+NSalTOq91hcbUf9q2tOVM5G0k58uojoNj
+Z6QmHWtI8wcf6Mu5oxfOoUmbq2ZGS4ZXbsqLXnrX8CNNq5nWGlz5cPTEN9WLYPOE
+Npolx7afeq1t0bompe0eXRA9fW/v1h135xceQWvuNy5benJcXfwdEZxvn+Zkf50z
+vmXusBnWk9xZ4arE5bFdNd2xJR/u14q7XopdcOe3vuBjU0n1/oswu/H455SFD9o3
+BKYXv0gO3F6XG51Vl1zZ9rzpqla4KCfrRM7TXwZvTV4=
+=rvo9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesboehmer
+
+==================================================================
+
